@@ -1,0 +1,12 @@
+{
+  "farm_id": 63,
+  "name": "cerebron-farm-63-hardware-test-hil",
+  "domain": "hardware-test-hil",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "hardware-hil",
+    "fault-injection-E4"
+  ],
+  "evidence_ceiling": "E2-without-real-bench"
+}
